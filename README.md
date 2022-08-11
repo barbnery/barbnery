@@ -6,6 +6,7 @@
 #### 👨🏻‍💻 &nbsp; About me:
 
 * I'm currently in my senior year of Software Engineering at IComp/UFAM.
+* Interested in web development, software engineering, usability and UX.
 
 ---
 
