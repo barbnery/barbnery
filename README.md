@@ -1,7 +1,5 @@
+### Hello, World! I'm Barbara. 👋 
 
-<div align="center">
-  ### Hello, World! I'm Barbara. 👋 
-</div>
 
 ---
 
