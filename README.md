@@ -10,7 +10,6 @@
   </div>
   
   <h3><b>I work (or worked) using:</h3></b>
-  <br>
   <div style="display: inline_block"><br>
   <img align="center" alt="Barb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Barb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
