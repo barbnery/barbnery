@@ -1,4 +1,4 @@
-###
+<!-- ###
 
 <div align="left">
   <h3><b>Hello, there! 👋</b></h3>
@@ -21,6 +21,6 @@
   <img align="center" alt="Barb-Sequelize" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original-wordmark.svg">
   <img align="center" alt="Barb-NPM" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg">
   
-</div>
+</div> -->
   
   
