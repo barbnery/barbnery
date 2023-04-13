@@ -6,6 +6,8 @@
   <br>
   I'm interested in web development, software engineering and UI/UX.
   </div>
+  <br>
+  <br>
 
 **Skills**
 
