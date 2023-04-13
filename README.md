@@ -7,8 +7,6 @@
   I'm interested in web development, software engineering and UI/UX.
   </div>
 
-<h3> :rocket: &nbsp;Minhas Skills </h3>
-
 **Skills**
 
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
